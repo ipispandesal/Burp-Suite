@@ -28,7 +28,7 @@
 		4. Copy License Request from BurpSuite_Pro and paste in keygen.jar
 		5. Copy license response from keygen.jar and paste in BurpSuite_Pro, and next and Done
 	----------------------------------------------
-	**5.1 For Windows Follow These Steps**
+	**5.1 For Windows Follow These Steps**qweqweqweqwe
 		1. Open Notepad and Paste command at 2.1 and save the file with name burp.bat in C:\Users\Siddharth\Downloads\burp-suite\   Folder.
 		2. Open another Notepad and Paste below command and save it with burp.VBS extension in Desktop.
 			Set WshShell = CreateObject("WScript.Shell")
@@ -40,4 +40,4 @@
 		3. Change Permissions for files with command "chmod +x /bin/burp"
 	----------------------------------------------
 	**6.1 For Executing Burp in Windows, Double Click on burp.VBS file.**
-	**6.2 For Executing Burp in Linux, Write burp in Terminal and press Enter.**
+	**6.2 For Executing Burp in Linux, Write burp in Terminaqweqweqweqweqweqweqweweqweqweqweqweweqweqweqweqweqweqweqweqweqweqwel and press Enter.**
